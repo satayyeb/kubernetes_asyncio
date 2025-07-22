@@ -18,10 +18,10 @@ import sys
 KUBERNETES_BRANCH = "v1.32.3"
 
 # client version for packaging and releasing.
-CLIENT_VERSION = "32.3.2.dev"
+CLIENT_VERSION = "32.3.0+snapshot"
 
 # Name of the release package
-PACKAGE_NAME = "kubernetes_asyncio_kubit"
+PACKAGE_NAME = "kubernetes_asyncio"
 
 # Stage of development, mainly used in setup.py's classifiers.
 DEVELOPMENT_STATUS = "4 - Beta"

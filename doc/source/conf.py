@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'kubernetes_asyncio_kubit'
+project = u'kubernetes-asyncio'
 copyright = u'2017, Kubernetes'
 
 # If true, '()' will be appended to :func: etc. cross-reference text.
