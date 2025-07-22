@@ -17,7 +17,7 @@ from setuptools import setup
 # Do not edit these constants. They will be updated automatically
 # by scripts/update-client.sh.
 CLIENT_VERSION = "32.3.2.dev"
-PACKAGE_NAME = "kubernetes_asyncio"
+PACKAGE_NAME = "kubernetes_asyncio_kubit"
 DEVELOPMENT_STATUS = "4 - Beta"
 
 # To install the library, run the following
