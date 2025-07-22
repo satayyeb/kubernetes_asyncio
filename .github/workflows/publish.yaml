@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/kubernetes_asyncio_kubit
+      url: https://pypi.org/p/kubernetes-asyncio-kubit
     permissions:
       id-token: write
     steps:
